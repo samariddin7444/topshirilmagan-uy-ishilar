@@ -1,0 +1,3 @@
+httpsleetcode.comproblemscheck-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentencesubmissions1171193802
+
+https://leetcode.com/problems/form-array-by-concatenating-subarrays-of-another-array/submissions/1171195384
